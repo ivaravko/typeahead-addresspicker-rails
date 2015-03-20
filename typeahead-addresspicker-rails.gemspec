@@ -13,10 +13,10 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/ivaravko/typeahead-addresspicker-rails"
   spec.license       = "MIT"
 
-  spec.add_dependency             "railties",   "~> 3.1"
-  spec.add_dependency             "actionpack", "~> 3.1"
-  spec.add_dependency             "jquery-rails", "~> 3.0"
-  spec.add_dependency             "twitter-typeahead-rails", "~> 0.10.2"
+  spec.add_dependency             "railties",   "~> 4.1"
+  spec.add_dependency             "actionpack", "~> 4.1"
+  spec.add_dependency             "jquery-rails", "~> 3.1"
+  spec.add_dependency             "twitter-typeahead-rails", "~> 0.10.5"
 
   spec.add_development_dependency "rails", "~> 3.1"
 
